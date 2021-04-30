@@ -1,1 +1,21 @@
-Null
+<servers>
+<server name=" ⛔ 🇵​🇴​🇸​🇷​🇴​🇳​🇩​🇦​" ca="0" continent_code="MY" country="SELAMAT BERPUASA 1442 H SEMOGA BERKAH" country_code="ID" ip="164.132.3.62" port="49237" region="ID" url="http://http://malagafm2.wapath.com" token="null"/>
+ <!--
+ <server name="Cyber Net" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="eropa.server.vps.net" port="43078" region="ID" url="http://http://malagafm2.wapath.com" token=""/> 
+-->
+<server name=" 🇮🇩 VIB :📡 Voice Indonesia Bersatu  " ca="0" continent_code="MY" country="LAMONGAN" country_code="ID" ip="164.132.3.62" port="48023" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name=" 🇮🇩 MNET :📡 Tidak Diketahui " ca="0" continent_code="MY" country="JAWA BARAT" country_code="ID" ip="164.132.3.62" port="47831" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name=" 🇮🇩 RDPV :📡 Radio Dupan Parahyangan  " ca="0" continent_code="MY" country="JAWA BARAT" country_code="ID" ip="198.24.160.150" port="34267" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+ <!--
+ <server name="Link Jipatu 147" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="qrtalk.net" port="64738" region="ID" url="http://http://malagafm2.wapath.com" token=""/> 
+-->
+<server name=" 🇮🇩 SBG :📡 Malang " ca="0" continent_code="MY" country="MALANG" country_code="ID" ip="198.24.160.150" port="33301" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name=" 🇮🇩 ISNU :📡 Istana Nusantara " ca="0" continent_code="MY" country="NUSA TENGGARA BARAT" country_code="ID" ip="95.216.18.242" port="20456" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name=" 🇮🇩 DRN :📡 Digital Radio Nasional" ca="0" continent_code="MY" country="ENREKANG" country_code="ID" ip="202.157.187.112" port="64738" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name=" 🇮🇩 RKP :📡 Radio Kandang Pitik" ca="0" continent_code="MY" country="MALAYSIA" country_code="ID" ip="144.76.73.12" port="39891" region="ID" url="http://radio.nasional.online" token=""/>
+<server name=" 🇮🇩 RWT :📡 Radio Walkie Talkie " ca="0" continent_code="MY" country="BANTEN" country_code="ID" ip="144.76.73.12" port="42466" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name=" 🇮🇩 RTV :📡 Radio Tari Virtual " ca="0" continent_code="MY" country="SEMARANG" country_code="ID" ip="149.56.14.62" port="61067" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name=" 🇮🇩 HT :📡 Hallo Teman " ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="202.157.177.180" port="64747" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name=" 🇮🇩 UGD :📡 Unit Galau Darurat   🔒" ca="0" continent_code="MY" country="PRIVAT SERVER" country_code="ID" ip="164.132.3.62" port="49626" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+-->
+</servers>
