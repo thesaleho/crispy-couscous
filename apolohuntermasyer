@@ -1,7 +1,9 @@
-SIBARUGA
-103.30.246.75
-1573 1573 false facebook / ESTILO NEW
-103.140.55.77
-22222 22222 true / RPV
-202.157.177.180
-10333 10333 true
+[ STAThread ]  //makro ini harus disetel di aplikasi konsol agar TeamTalk berfungsi dengan baik 
+        static  void  Main ( string [ ] args ) 
+        { 
+            ttclient =  new  TeamTalk ( true ) ;
+
+            string ipaddr =  "192.168.1.110" ; 
+            string nama pengguna =  "admin" , kata sandi =  "admin" ; 
+            int tcpport = TeamTalk . DEFAULT_TCPPORT , udpport = TeamTalk . DEFAULT_UDPPORT ; 
+            bool terenkripsi =  false ;
